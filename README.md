@@ -2,7 +2,7 @@
 
 # DataContractSerializerDemo
 ```
-Implementing serialization/deserialization with data contract serializer
+Implementing xml/json serialization/deserialization using data contract (xml/json) serializer
 ```
 
 > In this repo, i m providing **3 ways** (basic, custom, third party) in order to implement xml/json serialization/deserialization using [data contract xml serializer](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.serialization.json.datacontractjsonserializer) and [data contract json serializer](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.serialization.json.datacontractjsonserializer).
