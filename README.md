@@ -5,7 +5,7 @@
 Implementing serialization/deserialization with data contract serializer
 ```
 
-> In this repo, i m implementing xml/json serialization/deserialization with [data contract xml serializer](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.serialization.json.datacontractjsonserializer) and [data contract json serializer](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.serialization.json.datacontractjsonserializer) :
+> In this repo, i m providing 3 ways in order to implement xml/json serialization/deserialization using [data contract xml serializer](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.serialization.json.datacontractjsonserializer) and [data contract json serializer](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.serialization.json.datacontractjsonserializer) :
 >
 > :one: **BasicSerialization** 
 >> Models are only decorated with [Serializable attribute](https://docs.microsoft.com/en-us/dotnet/api/system.serializableattribute)
