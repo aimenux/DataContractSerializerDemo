@@ -1,3 +1,5 @@
+[![CI](https://github.com/aimenux/DataContractSerializerDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/DataContractSerializerDemo/actions/workflows/ci.yml)
+
 # DataContractSerializerDemo
 ```
 Implementing serialization/deserialization with data contract serializer
